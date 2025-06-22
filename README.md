@@ -29,7 +29,8 @@ Ensure the following are installed on your **Linux environment**:
 
 download repository with bash command:
 ```shell
-git clone https://github.com/max09lui/WTL-AI_Trial_Project```
+git clone https://github.com/max09lui/WTL-AI_Trial_Project
+```
 
 ## running program
 
@@ -37,6 +38,7 @@ can edit LLM/ user prompts in helper.js
 
 run code with bash command:
 ```shell
-node main.js```
+node main.js
+```
 
 
