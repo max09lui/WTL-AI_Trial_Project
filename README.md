@@ -26,7 +26,5 @@ Ensure the following are installed on your **Linux environment**:
 - A working **MySQL database**
 - Node.js MySQL package (`mysql2` recommended)
 
-Install dependencies:
-
-```bash
-npm install mysql2
+run code with bash command:
+node main.js
