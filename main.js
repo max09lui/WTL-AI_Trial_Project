@@ -58,12 +58,12 @@ async function getSQLQueriesFromPrompts(USER_PROMPTS, LLM_PROMPT, OPEN_API_KEY) 
 function runQueries(commands)
 {
 
-    // Create connection
+    // mySQL database info is omitted
     const con = mysql.createConnection({
-    host: 'sql3.freesqldatabase.com',
-    user: 'sql3785614',
-    password: 'srlxG2tPQs',
-    database: 'sql3785614'
+    host: '',
+    user: '',
+    password: '',
+    database: ''
     });
 
     // iteratively run queries 
