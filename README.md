@@ -21,8 +21,8 @@ This is a trial project created for the AI Engineer position at **WTL Design**. 
 
 Ensure the following are installed on your **Linux environment**:
 
-- [Node.js](https://nodejs.org/)
-- [Node Version Manager (nvm)](https://github.com/nvm-sh/nvm)
+- Node.js
+- Node Version Manager (nvm)
 - A working **MySQL database**
 - Node.js MySQL package (`mysql2` recommended)
 
