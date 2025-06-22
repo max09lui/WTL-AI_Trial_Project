@@ -23,8 +23,8 @@ Ensure the following are installed on your **Linux environment**:
 
 - Node.js
 - Node Version Manager (nvm)
-- A working **MySQL database**
-- Node.js MySQL package (`mysql2` recommended)
+- A working **mySQL database**
+- Node.js mySQL package (`mysql2` required)
 
 ## running program
 
