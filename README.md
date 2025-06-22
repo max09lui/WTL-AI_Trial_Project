@@ -17,7 +17,7 @@ This is a trial project created for the AI Engineer position at **WTL Design**. 
 
 ## Setup Instructions
 
-### Prerequisites
+### packages
 
 Ensure the following are installed on your **Linux environment**:
 
@@ -26,5 +26,11 @@ Ensure the following are installed on your **Linux environment**:
 - A working **MySQL database**
 - Node.js MySQL package (`mysql2` recommended)
 
+## running program
+
+can edit LLM/ user prompts in helper.js
+
 run code with bash command:
 node main.js
+
+
