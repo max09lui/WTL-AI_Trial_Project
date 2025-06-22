@@ -24,6 +24,7 @@ Ensure the following are installed on your **Linux environment**:
 - Node.js
 - Node Version Manager (nvm)
 - A working **mySQL database**
+- A valid openAI API key
 - Node.js mySQL package (`mysql2` required)
 
 ## running program
